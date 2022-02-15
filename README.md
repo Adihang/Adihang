@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Adihang
 - my blog is https://blog.naver.com/limhan456
-- I'm working in Busan, Korea.
 - I'm working on 3DCAD, too. https://www.thingiverse.com/hanbyel/designs
+- 
+- I'm living in Busan, Korea.
 - If you want to study with me, please contact limhan456@naver.com
