@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Adihang
+- My main language is Python.
 - my blog is https://blog.naver.com/limhan456
 - I'm working on 3DCAD, too. https://www.thingiverse.com/hanbyel/designs
 - 
