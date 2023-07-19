@@ -6,7 +6,7 @@ Blog : https://blog.naver.com/limhan456
 
 I'm working on CAD with 3D Printer, too. https://www.thingiverse.com/hanbyel/designs
 
-I'm living in Busan, Korea.
+I'm living in Korea.
 
 If you want to study with me, please contact
 
