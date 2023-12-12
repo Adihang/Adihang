@@ -10,7 +10,7 @@ I'm living in Korea.
 
 If you want to study with me, please contact
 
-Kakao Talk ID : Adihang
+linkedin : www.linkedin.com/in/hanplanet
 
 My favorite project :
 
