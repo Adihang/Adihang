@@ -2,11 +2,11 @@
 
 My main language is Python.
 
-[![Blog](https://img.shields.io/badge/Aidhang-Blog-orange?logo=naver&style=for-the-badge)](https://blog.naver.com/limhan456)
-[![linkedin](https://img.shields.io/badge/Aidhang-linkedin-indigo?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/hanplanet)
+[![Blog](https://img.shields.io/badge/Blog-Aidhang-orange?logo=naver&style=for-the-badge)](https://blog.naver.com/limhan456)
+[![linkedin](https://img.shields.io/badge/Linkedin-Aidhang-indigo?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/hanplanet)
 
 I'm working on CAD with 3D Printer, too.
-- [![CAD](https://img.shields.io/badge/Aidhang-thingiverse-blue?logo=thingiverse&style=for-the-badge)](https://www.thingiverse.com/hanbyel/designs)
+- [![CAD](https://img.shields.io/badge/Thingiverse-Aidhang-blue?logo=thingiverse&style=for-the-badge)](https://www.thingiverse.com/hanbyel/designs)
 
 If you want to study with me, please contact
 
