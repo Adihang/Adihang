@@ -2,7 +2,7 @@
 
 My main language is Python.
 
-Portfolio : https://www.hanplanet.com/Portfolio
+Portfolio : https://www.hanplanet.com/portfolio
 
 [![Blog](https://img.shields.io/badge/Blog-Aidhang-orange?logo=naver&style=for-the-badge)](https://blog.naver.com/limhan456)
 [![linkedin](https://img.shields.io/badge/Linkedin-Hanbyel-indigo?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hanplanet/)
